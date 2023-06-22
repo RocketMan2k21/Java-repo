@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InterpolationMusthave:jar">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/Курсова/Interpolation soft</output-path>
+    <root id="archive" name="InterpolationMusthave.jar">
+      <element id="module-output" name="InterpolationMusthave" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
